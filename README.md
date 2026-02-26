@@ -1,5 +1,5 @@
 Car Rental Platform Backend
-
+Production-style backend system built with Laravel demonstrating scalable API architecture, domain-driven design principles, and real-world business workflows.
 Overview
 
 A robust backend service powering a scalable car rental platform, designed to deliver API-first, branch-aware car reservation and fleet management for business-grade deployments. The system seamlessly integrates multi-branch car management, real-time booking, and secure customer operations, supporting both administrative and client-facing workflows through clean RESTful interfaces.
